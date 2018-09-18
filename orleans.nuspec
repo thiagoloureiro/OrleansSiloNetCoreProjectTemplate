@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OrleansSiloHost.NetCore.ProjectTemplate</id>
+    <version>1.0.2</version>
+    <authors>Thiago Loureiro</authors>
+    <owners>Thiago Loureiro</owners>
+    <projectUrl>https://github.com/thiagoloureiro/OrleansSiloNetCoreProjectTemplate</projectUrl>
+    <licenseUrl>https://github.com/thiagoloureiro/OrleansSiloNetCoreProjectTemplate/blob/master/LICENSE</licenseUrl>
+	<iconUrl>https://codeopinion.com/wp-content/uploads/2017/11/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Orleans SiloHost .NetCore Project Template</title>
+    <description>
+Orleans Silo Host .NET Core 2.1 Project Template
+    </description>
+
+    <releaseNotes>
+Initial Release, support to .NetCore 2.1
+    </releaseNotes>
+    <tags>
+      orleans
+	  silo
+	  silohost
+      dotnet-core
+	  console
+    </tags>
+    <language>en-US</language>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+	<dependencies>
+	</dependencies>
+  </metadata>
+</package>

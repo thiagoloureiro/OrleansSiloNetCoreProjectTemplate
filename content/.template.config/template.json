@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Thiago Loureiro",
+    "classifications": [ "Common", "Console" ],
+    "identity": "OrleansSiloHost.NetCore.ProjectTemplate",
+    "name": "Orleans SiloHost NetCore Project Template",
+    "shortName": "orleanshostdotnet",
+	"tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
