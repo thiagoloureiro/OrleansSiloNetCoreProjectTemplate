@@ -3,7 +3,7 @@ OrleansSilo .NetCore 2.1 ProjectTemplate
 
 # How to install:
 
-## First download the Latest .NetCore SDK
+## First download the Latest .Netcore SDK
 https://www.microsoft.com/net/download
 
 ## Run the command:
@@ -15,5 +15,7 @@ https://www.microsoft.com/net/download
 ```cd OrleansSilo```
 
 ```dotnet run```
+
+![Installing](https://raw.githubusercontent.com/thiagoloureiro/OrleansSiloNetCoreProjectTemplate/master/OrleansSiloHost.gif)
 
 voi lá! :)
