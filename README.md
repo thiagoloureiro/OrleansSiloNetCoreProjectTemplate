@@ -11,7 +11,9 @@ https://www.microsoft.com/net/download
 
 ## Browse to your folder and type
 ```dotnet new orleanshostdotnet```
+
 ```cd OrleansSilo```
+
 ```dotnet run```
 
 voi lá! :)
