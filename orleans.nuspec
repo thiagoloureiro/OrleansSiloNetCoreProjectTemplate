@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>OrleansSiloHost.NetCore.ProjectTemplate</id>
     <version>1.0.2</version>
@@ -13,7 +13,8 @@
     <description>
 Orleans Silo Host .NET Core 2.1 Project Template
     </description>
-
+<summary>
+</summary>
     <releaseNotes>
 Initial Release, support to .NetCore 2.1
     </releaseNotes>
