@@ -7,11 +7,11 @@ OrleansSilo .NetCore 2.1 ProjectTemplate
 https://www.microsoft.com/net/download
 
 # Run the command:
-dotnet new -i OrleansSiloHost.NetCore.ProjectTemplate
+###dotnet new -i OrleansSiloHost.NetCore.ProjectTemplate
 
 # Browse to your folder and type
-dotnet new orleanshostdotnet
-cd OrleansSilo
-dotnet run
+###dotnet new orleanshostdotnet
+###cd OrleansSilo
+###dotnet run
 
 voi lá! :)
