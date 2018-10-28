@@ -7,18 +7,15 @@ OrleansSilo .NetCore 2.1 ProjectTemplate
 https://www.microsoft.com/net/download
 
 ## Run the command:
-```dotnet new -i OrleansGrain.NetCore.ProjectTemplate```
-
-## Create a New folder
-```md OrleansGrain```
-
-## Change Directory to the new folder
-```cd OrleansGrain```
+```dotnet new -i OrleansSiloHost.NetCore.ProjectTemplate```
 
 ## Browse to your folder and type
-```dotnet new orleansgraindotnet```
+```dotnet new orleanshostdotnet```
 
-## Build the project
-```dotnet build```
+```cd OrleansSilo```
 
-![Installing](https://raw.githubusercontent.com/thiagoloureiro/OrleansGrainNetStandardProjectTemplate/master/install.gif)
+```dotnet run```
+
+![Installing](https://raw.githubusercontent.com/thiagoloureiro/OrleansSiloNetCoreProjectTemplate/master/OrleansSiloHost.gif)
+
+voi lรก! :)
