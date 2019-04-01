@@ -1,5 +1,5 @@
 # OrleansSiloNetCoreProjectTemplate
-OrleansSilo .NetCore 2.1 ProjectTemplate
+OrleansSilo .NetCore 2.2 ProjectTemplate
 
 # How to install:
 
@@ -17,5 +17,3 @@ https://www.microsoft.com/net/download
 ```dotnet run```
 
 ![Installing](https://raw.githubusercontent.com/thiagoloureiro/OrleansSiloNetCoreProjectTemplate/master/OrleansSiloHost.gif)
-
-voi lรก! :)
