@@ -1,5 +1,5 @@
 # OrleansSiloNetCoreProjectTemplate
-OrleansSilo .NetCore 2.1 ProjectTemplate
+OrleansSilo .NetCore 2.2 ProjectTemplate
 
 # How to install:
 
