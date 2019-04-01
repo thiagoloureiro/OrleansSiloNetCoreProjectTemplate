@@ -17,5 +17,3 @@ https://www.microsoft.com/net/download
 ```dotnet run```
 
 ![Installing](https://raw.githubusercontent.com/thiagoloureiro/OrleansSiloNetCoreProjectTemplate/master/OrleansSiloHost.gif)
-
-voi lรก! :)
